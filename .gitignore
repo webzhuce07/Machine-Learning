@@ -1,0 +1,7 @@
+
+*.csv
+*.model
+*.tsv
+*.npy
+NLP/IMDB/IMDB_data/IMDB_data.zip
+NLP/Train/model/word2vec.zip
